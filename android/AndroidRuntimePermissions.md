@@ -418,5 +418,6 @@ public class PermissionsActivity extends Activity {
 
 
 参考文献：
-[Google关于runtime permissions的training文档](http://developer.android.com/training/permissions/index.html)
-[permissions](https://blog.stylingandroid.com/permissions-part-1/)
+
+* [Google关于runtime permissions的training文档](http://developer.android.com/training/permissions/index.html)
+* [permissions](https://blog.stylingandroid.com/permissions-part-1/)
